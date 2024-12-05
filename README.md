@@ -1,4 +1,2 @@
 # Testfordemonstration
-hhhhhhhhhhh
-
-hello myfriend
+cpi project beginners
